@@ -1,5 +1,5 @@
 - **name**: ruslan klymentiev
 - **areas of specialization**: data science | statistics | neuroscience 
-- **links**:
-  - **blog**: [www.defme.xyz](https://defme.xyz/)
-  - **twitter**: [\@ruslan_kl](https://twitter.com/ruslan_kl)
+- **current position**:
+  - msc student in integrative neuroscience (otto von guericke university magdeburg)
+  - research assistant at the institute for pharmacology and toxicology (otto von guericke university magdeburg)
