@@ -4,7 +4,7 @@
   "interests": [
     "computational psychiatry",
     "decision making",
-    "Bayesian statistics"
+    "bayesian statistics"
   ],
   "current position": [
     {
