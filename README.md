@@ -2,9 +2,9 @@
 {
   "name": "ruslan klymentiev",
   "interests": [
-    "reinforcement learning",
-    "bayesian inference",
-    "decision making"
+    "computational psychiatry",
+    "decision making",
+    "Bayesian statistics"
   ],
   "current position": [
     {
