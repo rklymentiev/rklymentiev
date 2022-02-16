@@ -1,10 +1,10 @@
 ```json
 {
   "name": "ruslan klymentiev",
-  "areas": [
-    "data science",
-    "statistics",
-    "neuroscience"
+  "interests": [
+    "reinforcement learning",
+    "bayesian inference",
+    "decision making"
   ],
   "current position": [
     {
